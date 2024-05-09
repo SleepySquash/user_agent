@@ -181,5 +181,7 @@ class _MyAppState extends State<MyApp> {
     if (mounted) {
       setState(() => _text = system ?? '');
     }
+
+    print(_text);
   }
 }
