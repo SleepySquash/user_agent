@@ -1,0 +1,57 @@
+I/flutter (19923): board: rosemary
+I/flutter (19923): bootloader: unknown
+I/flutter (19923): brand: Redmi
+I/flutter (19923): device: rosemary
+I/flutter (19923): display: TP1A.220624.014
+I/flutter (19923): displayMetrics: Instance of 'AndroidDisplayMetrics'
+I/flutter (19923): fingerprint: Redmi/rosemary_ru/rosemary:13/TP1A.220624.014/V14.0.1.0.TKLRUXM:user/release-keys
+I/flutter (19923): hardware: mt6785
+I/flutter (19923): host: pangu-build-component-system-97468-sxq7q-629f9-bb23f
+I/flutter (19923): id: TP1A.220624.014
+I/flutter (19923): isPhysicalDevice: true
+I/flutter (19923): manufacturer: Xiaomi
+I/flutter (19923): model: M2101K7BNY
+I/flutter (19923): product: rosemary_ru
+I/flutter (19923): serialNumber: unknown
+I/flutter (19923): supported32BitAbis: [armeabi-v7a, armeabi]
+I/flutter (19923): supported64BitAbis: [arm64-v8a]
+I/flutter (19923): supportedAbis: [arm64-v8a, armeabi-v7a, armeabi]
+I/flutter (19923): 
+I/flutter (19923): tags: release-keys
+I/flutter (19923): type: user
+I/flutter (19923): version.baseOS: 
+I/flutter (19923): version.codename: REL
+I/flutter (19923): version.incremental: V14.0.1.0.TKLRUXM
+I/flutter (19923): version.previewSdkInt: 0
+I/flutter (19923): version.release: 13
+I/flutter (19923): version.sdkInt: 33
+I/flutter (19923): version.securityPatch: 2023-03-01
+
+I/flutter (14822): board: atoll
+I/flutter (14822): bootloader: unknown
+I/flutter (14822): brand: vivo
+I/flutter (14822): device: 2061
+I/flutter (14822): display: SP1A.210812.003 release-keys
+I/flutter (14822): displayMetrics: Instance of 'AndroidDisplayMetrics'
+I/flutter (14822): fingerprint: vivo/2061_RU/2061:12/SP1A.210812.003/compiler05061557:user/release-keys
+I/flutter (14822): hardware: qcom
+I/flutter (14822): host: comsz01110058
+I/flutter (14822): id: SP1A.210812.003
+I/flutter (14822): isPhysicalDevice: true
+I/flutter (14822): manufacturer: vivo
+I/flutter (14822): model: V2061
+I/flutter (14822): product: 2061_RU
+I/flutter (14822): serialNumber: unknown
+I/flutter (14822): supported32BitAbis: [armeabi-v7a, armeabi]
+I/flutter (14822): supported64BitAbis: [arm64-v8a]
+I/flutter (14822): supportedAbis: [arm64-v8a, armeabi-v7a, armeabi]
+I/flutter (14822): 
+I/flutter (14822): tags: release-keys
+I/flutter (14822): type: user
+I/flutter (14822): version.baseOS: 
+I/flutter (14822): version.codename: REL
+I/flutter (14822): version.incremental: compiler05061557
+I/flutter (14822): version.previewSdkInt: 0
+I/flutter (14822): version.release: 12
+I/flutter (14822): version.sdkInt: 31
+I/flutter (14822): version.securityPatch: 2023-05-01
