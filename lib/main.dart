@@ -117,7 +117,7 @@ class _MyAppState extends State<MyApp> {
       final StringBuffer buffer = StringBuffer(info.prettyName);
 
       if (utsname != null) {
-        buffer.write(' ${utsname.release}');
+        buffer.write('; ${utsname.release}');
       }
 
       if (info.variant != null || info.buildId != null) {
