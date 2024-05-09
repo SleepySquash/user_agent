@@ -69,7 +69,7 @@ class _MyAppState extends State<MyApp> {
       final info = await device.windowsInfo;
 
       final StringBuffer buffer = StringBuffer(
-        '${info.productName}; build ${info.buildLabEx}; ${info.displayVersion}',
+        '${info.productName}; ${info.displayVersion}; build ${info.buildLabEx};',
       );
 
       Pointer<SYSTEM_INFO> lpSystemInfo = calloc<SYSTEM_INFO>();
